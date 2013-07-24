@@ -1,4 +1,3 @@
-Hello-World
-===========
+Hello World.
 
-Hello World on Github
+1st Github Project.
